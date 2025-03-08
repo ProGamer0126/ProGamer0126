@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProGamer0126
 - 👀 I’m interested in making cool games
-- 🌱 I’m currently learning how to make a game on godot engine(with copilot's help of course)
+- 🌱 I’m currently learning how to make a game on Unity(with copilot's help of course)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me i linked my discord user to my account i think
 - 😄 Pronouns: he/him
